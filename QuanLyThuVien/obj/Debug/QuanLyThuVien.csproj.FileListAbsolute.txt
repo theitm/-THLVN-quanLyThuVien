@@ -1,0 +1,11 @@
+C:\Users\Quan\Desktop\project\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\Quan\Desktop\project\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\Quan\Desktop\project\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\Quan\Desktop\project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Quan\Desktop\project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form1.resources
+C:\Users\Quan\Desktop\project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.nhanVien.resources
+C:\Users\Quan\Desktop\project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Quan\Desktop\project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\Quan\Desktop\project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\Quan\Desktop\project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\Quan\Desktop\project\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.quanly.resources
